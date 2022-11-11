@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"nomoreinnocence",
+			"nmi",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"difficulties": "no-more-inocence",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "SONIC",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		0,
+		0,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
